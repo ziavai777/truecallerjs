@@ -73,10 +73,10 @@ Here are some examples of the available options:
 For example:
 
 ```bash
-~$ truecallerjs -s +9199123456789 --json
+~$ truecallerjs -s +8801874426134 --json
 {
      ...
-     "name":"Sumith Emmadi"
+     "name":"Lamia Talukdar"
      ...
 }
 
